@@ -1,0 +1,14 @@
+{
+  "name": "valfo-json-file",
+  "version": "1.0.0",
+  "description": "database for valfo app",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "Dennis Kimathi",
+  "license": "ISC",
+  "dependencies": {
+    "json-server": "^0.17.0"
+  }
+}
