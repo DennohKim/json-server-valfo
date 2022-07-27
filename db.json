@@ -7,6 +7,7 @@
       "reference": "123/45",
       "size": 0.5,
       "date": "2020-06-02",
+      "location": "Kilimani, Monrovio" ,
       "latitude": -1.293278,
       "longitude": 36.780111
     },
@@ -17,8 +18,10 @@
       "reference": "456/78",
       "size": 1,
       "date": "2020-11-01",
+      "location": "Hardy Karen",
       "latitude": -1.29581,
       "longitude": 36.775081
+      
     },
     {
       "id": 3,
@@ -27,8 +30,10 @@
       "reference": "190/45",
       "size": 2,
       "date": "2020-10-01",
+      "location": "Karen Hardy",
       "latitude": -1.297816,
-      "longitude": 36.779866
+      "longitude": 36.779866 
+       
     },
     {
       "id": 4,
@@ -37,8 +42,10 @@
       "reference": "453/62",
       "size": 0.5,
       "date": "2020-09-01",
+      "location": "Kileleshwa Oloitoktok",
       "latitude": -1.300787,
       "longitude": 36.778539
+      
     },
     {
       "id": 5,
@@ -47,8 +54,10 @@
       "reference": "126/47",
       "size": 0.25,
       "date": "2020-01-03",
+      "location": "Kilimani Yaya" ,
       "latitude": -1.302621,
       "longitude": 36.786299
+
     }
   ],
   "residential": [
@@ -60,6 +69,7 @@
       "area": 4000,
       "date": "2020-09-01",
       "rent": 100000,
+      "location": "Ngong Road",
       "latitude": -1.252588,
       "longitude": 36.778997
     },
@@ -71,6 +81,7 @@
       "area": 3500,
       "date": "2021-02-09",
       "rent": 160000,
+      "location": "Mbagathi Way",
       "latitude": -1.255483,
       "longitude": 36.77615
     },
@@ -82,6 +93,7 @@
       "area": 5400,
       "date": "2021-10-08",
       "rent": 180000,
+      "location": "Mbagathi Way",
       "latitude": -1.257392,
       "longitude": 36.780409
     },
@@ -93,6 +105,7 @@
       "area": 2450,
       "date": "2020-11-19",
       "rent": 125000,
+      "location": "Kilimani Marcus Garvey",
       "latitude": -1.25443,
       "longitude": 36.781151
     },
@@ -104,6 +117,7 @@
       "area": 8000,
       "date": "2021-02-10",
       "rent": 160000,
+      "location": "Kilimani Kindaruma",
       "latitude": -1.252543,
       "longitude": 36.783774
     }
@@ -119,6 +133,7 @@
       "date": "31/02/2020",
       "rent": 160000,
       "service": 30,
+      "location": "Tom Mboya Street",
       "latitude": -1.291116,
       "longitude": 36.820834
     },
@@ -132,6 +147,7 @@
       "date": "01/03/2020",
       "rent": 125000,
       "service": 22,
+      "location": "Tom Mboya Street",
       "latitude": -1.279929,
       "longitude": 36.826156
     },
@@ -145,6 +161,7 @@
       "date": "1/03/2020",
       "rent": 165000,
       "service": 25,
+      "location": "Kenyatta Avenue",
       "latitude": -1.286115,
       "longitude": 36.825529
     },
@@ -158,6 +175,7 @@
       "date": "02/03/2020",
       "rent": 186500,
       "service": 30,
+      "location": "University way",
       "latitude": -1.28974,
       "longitude": 36.822246
     },
@@ -171,6 +189,7 @@
       "date": "02/03/2020",
       "rent": 120000,
       "service": 25,
+      "location": "Mombasa Road",
       "latitude": -1.28214,
       "longitude": 36.81467
     }
